@@ -12,7 +12,7 @@ while True:
     date = date.today()
 #gets the time
     ti = time.localtime()
-#sets time format
+#sets time format scemo coglione chi legge ehehehe
     current_time = time.strftime("%H:%M:%S" , ti)
 
 
